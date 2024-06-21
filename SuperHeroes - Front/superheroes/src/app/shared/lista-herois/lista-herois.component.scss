@@ -1,0 +1,27 @@
+.lista-container {
+  display: flex;
+  padding-top: 40px;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+  margin: 0 auto;
+
+  .example-card {
+    min-width: 400px;
+  }
+
+  mat-card-subtitle{
+color: rgb(172, 37, 172);
+  }
+
+  .mdc-card {
+    justify-content: space-between;
+    gap:20px;
+  }
+
+  .mdc-card__actions {
+
+    gap: 10px;
+  }
+}
