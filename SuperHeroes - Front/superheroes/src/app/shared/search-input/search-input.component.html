@@ -1,0 +1,7 @@
+<mat-form-field class="search">
+  <mat-label>Search Heroi</mat-label>
+  <input matInput type="text" #input (keyup)="search(input.value)">
+  <button *ngIf="input.value" matSuffix mat-icon-button aria-label="Clear" (click)="input.value=''">
+    <mat-icon>close</mat-icon>
+  </button>
+</mat-form-field>

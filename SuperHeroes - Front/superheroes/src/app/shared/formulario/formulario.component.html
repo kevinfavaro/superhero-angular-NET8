@@ -1,0 +1,42 @@
+<form [formGroup]="HeroiForm" (submit)="submitForm()">
+  <mat-card>
+    <mat-card-content class="items-col">
+      <mat-form-field>
+        <mat-label>Nome</mat-label>
+        <input matInput type="text" id="nome" formControlName="nome" placeholder="Nome" />
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Nome do herói</mat-label>
+        <input matInput id="nomeHeroi" type="text" formControlName="nomeHeroi" placeholder="Nome do heroi" />
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Choose a date</mat-label>
+      <input matInput [matDatepicker]="picker" formControlName="dataNascimento" placeholder="Data de Nascimento" />
+      <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker startView="year" [startAt]="startDate"></mat-datepicker>
+    </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Altura</mat-label>
+        <input matInput id="altura" type="number" formControlName="altura" placeholder="Altura" />
+      </mat-form-field>
+      <mat-form-field>
+        <mat-label>Peso</mat-label>
+        <input matInput id="peso" type="number" formControlName="peso" placeholder="Peso" />
+      </mat-form-field>
+
+      <mat-form-field>
+        <mat-label>Superpoderes</mat-label>
+        <mat-select multiple id="superpoderes" placeholder="Superpoderes" formControlName="superpoderes">
+          <mat-option *ngFor="let poder of listaSuperpoderes" value={{poder.id}}>{{poder.superpoder}}</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+    </mat-card-content>
+  </mat-card>
+
+  <button mat-raised-button color="primary" type="submit">Salvar Usuário</button>
+
+</form>

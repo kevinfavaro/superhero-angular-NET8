@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|c:\\users\\kv2f\\documents\\superheroes - viceri\\superheroes - back\\superheroes\\controllers\\heroiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|solutionrelative:superheroes\\controllers\\heroiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|c:\\users\\kv2f\\documents\\superheroes - viceri\\superheroes - back\\superheroes\\dtos\\readheroidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|solutionrelative:superheroes\\dtos\\readheroidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|c:\\users\\kv2f\\documents\\superheroes - viceri\\superheroes - back\\superheroes\\models\\herois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|solutionrelative:superheroes\\models\\herois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|c:\\users\\kv2f\\documents\\superheroes - viceri\\superheroes - back\\superheroes\\configuracao\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|solutionrelative:superheroes\\configuracao\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|c:\\users\\kv2f\\documents\\superheroes - viceri\\superheroes - back\\superheroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35903A32-911F-45B3-B1F3-1AE35E203088}|SuperHeroes\\SuperHeroes.csproj|solutionrelative:superheroes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadHeroiDto.cs",
+              "DocumentMoniker": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\DTOs\\ReadHeroiDto.cs",
+              "RelativeDocumentMoniker": "SuperHeroes\\DTOs\\ReadHeroiDto.cs",
+              "ToolTip": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\DTOs\\ReadHeroiDto.cs",
+              "RelativeToolTip": "SuperHeroes\\DTOs\\ReadHeroiDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:16:03.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Herois.cs",
+              "DocumentMoniker": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Models\\Herois.cs",
+              "RelativeDocumentMoniker": "SuperHeroes\\Models\\Herois.cs",
+              "ToolTip": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Models\\Herois.cs",
+              "RelativeToolTip": "SuperHeroes\\Models\\Herois.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:10:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Configuracao\\ContextDb.cs",
+              "RelativeDocumentMoniker": "SuperHeroes\\Configuracao\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Configuracao\\ContextDb.cs",
+              "RelativeToolTip": "SuperHeroes\\Configuracao\\ContextDb.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:09:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroisController.cs",
+              "DocumentMoniker": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Controllers\\HeroisController.cs",
+              "RelativeDocumentMoniker": "SuperHeroes\\Controllers\\HeroisController.cs",
+              "ToolTip": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Controllers\\HeroisController.cs",
+              "RelativeToolTip": "SuperHeroes\\Controllers\\HeroisController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:32:55.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroes\\Program.cs",
+              "ToolTip": "C:\\Users\\kv2f\\Documents\\SuperHeroes - Viceri\\SuperHeroes - Back\\SuperHeroes\\Program.cs",
+              "RelativeToolTip": "SuperHeroes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T11:17:27.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

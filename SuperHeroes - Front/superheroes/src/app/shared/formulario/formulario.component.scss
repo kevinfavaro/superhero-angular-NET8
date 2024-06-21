@@ -1,0 +1,24 @@
+form {
+  text-align: center;
+
+  button {
+    width: 30%;
+  }
+
+  mat-card {
+    width: 80%;
+    margin: 40px auto;
+
+
+    mat-card-content.items-col {
+      align-items: stretch;
+      display: flex;
+      flex-direction: column;
+    }
+
+    mat-form-field {
+      margin-bottom: 14px;
+    }
+  }
+
+}
